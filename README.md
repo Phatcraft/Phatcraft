@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello world 👋
+Chào mọi người. Tôi là Phatcraft.
 
-<!--
-**Phatcraft/Phatcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Thông tin cơ bản
++ Tên thật: Phát.
++ Giới tính: Nam.
++ Nơi ở hiện tại: Việt Nam.
 
-Here are some ideas to get you started:
+> Tôi chỉ có thể cho bạn biết bao nhiêu đó thôi. Sorry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sở thích
+Sở thích chủ yếu: lập trình (yep).\
+Ngoài ra tôi cũng có hứng thú với việc chụp ảnh (tuy không chuyên nghiệp cho lắm)
+
+## Tham gia Github
+Tôi bắt đầu tham gia Github vào năm 2023. \
+Tuy nhiên tôi thực sự hoạt động nhiều vào tháng 9/2025 (do lười).
