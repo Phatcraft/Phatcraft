@@ -12,7 +12,8 @@ Chào mọi người. Tôi là Phatcraft.
 Sở thích chủ yếu: lập trình (yep).\
 Ngoài ra tôi cũng có hứng thú với việc chụp ảnh (tuy không chuyên nghiệp cho lắm)
 
-![image](./images/P1000167.JPG)
+![image](./images/P1000245.JPG)
+*Ảnh tự chụp*
 
 ## Tham gia Github
 Tôi bắt đầu tham gia Github vào năm 2023. \
