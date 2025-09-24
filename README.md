@@ -2,8 +2,8 @@
 Chào mọi người. Tôi là Phatcraft.
 
 ## Thông tin cơ bản
-+ Tên thật: Phát.
-+ Giới tính: Nam.
++ Tên thật: Phát
++ Giới tính: Nam
 + Nơi ở hiện tại: Việt Nam.
 
 > Tôi chỉ có thể cho bạn biết bao nhiêu đó thôi. Sorry
