@@ -10,7 +10,7 @@ Chào mọi người. Tôi là Phatcraft.
 
 ## Sở thích
 Sở thích chủ yếu: lập trình (yep).\
-Ngoài ra tôi cũng có hứng thú với việc chụp ảnh (tuy không chuyên nghiệp cho lắm)
+Ngoài ra tôi cũng hay chụp ảnh (tuy không chuyên nghiệp cho lắm)
 
 ![image](./images/P1000245.JPG)
 *Ảnh tự chụp*
