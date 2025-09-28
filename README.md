@@ -18,3 +18,6 @@ Ngoài ra tôi cũng hay chụp ảnh (tuy không chuyên nghiệp cho lắm)
 ## Tham gia Github
 Tôi bắt đầu tham gia Github vào 10/6/2023. \
 Tuy nhiên tôi thực sự hoạt động nhiều vào tháng 9/2025 (do lười).
+
+## Mạng xã hội 
++ [Facebook](https://www.facebook.com/share/14PRhhH6Bf3/)
